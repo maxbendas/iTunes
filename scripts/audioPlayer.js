@@ -1,3 +1,3 @@
-export const audioPlayer = ()=>{
+export const audioPlayerInit = ()=>{
     console.log('Audio Player')
 }
